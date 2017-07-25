@@ -5,503 +5,502 @@ module.exports = {
      * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
      * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
      */
-    "QUESTIONS_EN_GB" : [
+    "QUESTIONS_EN_US" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "What is the sigil of the Stark family?": [
+                "Direwolf",
+                "Lion",
+                "Rose",
+                "Stag",
+                "Three-headed dragon",
+                "Wolf"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "Which of the following are not one of the Seven Kingdoms?": [
+                "Braavos",
+                "The Riverlands",
+                "The North",
+                "The Reach",
+                "Dorne",
+                "The Vale",
+                "The Westernlands"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "Who is the author of A Song of Ice and Fire?": [
+                "George R.R. Martin",
+                "J.R.R. Tolkien",
+                "Frank Herbert",
+                "Stannis Baratheon"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "Which of the following characters are still alive?": [
+                "Gendry",
+                "Mance Rayder",
+                "Tywin",
+                "None of these"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "In season 1, what part of a horse does Daenerys eat?": [
+                "Heart",
+                "Brain",
+                "Liver",
+                "All of it"
             ]
         },
         {
             "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+                "Roose Bolton killed Ramsey",
+                "Jamie Lannister tried to kill Brann",
+                "Tyrion was Hand of the King for Joffrey",
+                "Gendry is still alive"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "In what year did Game of Thrones make its television debut?": [
+                "2011",
+                "2010",
+                "2012",
+                "2009",
+                "2013"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
+            "Which actor played Joffrey?": [
+                "Jack Gleeson",
+                "Peter Dinklage",
+                "Dylan Sprouse",
                 "Lady Gaga"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "In season 2, who does Tyrion tell Littlefinger he is planning on marrying to Myrcella?": [
+                "Robin Arryn",
+                "Trystan Martell",
+                "Theon Greyjoy",
+                "Bran Stark"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "What were Tywin Lannister's last words?": [
+                "You're no son of mine",
+                "She was a whore",
+                "You shot me",
+                "Jamie is my favorite"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "Who is the Knight of Flowers?": [
+                "Loras Tyrell",
+                "Renly Baratheon",
+                "Brienne of Tarth",
+                "Jamie Lannister"
             ]
         },
         {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
+            "Who kills Robert Baratheon?": [
+                "A boar",
+                "Cersei Lannister",
+                "Lancel Lannister",
+                "Ned Stark"
             ]
         },
         {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
+            "What business does Littlefinger run?": [
+                "A brothel",
+                "A bank",
+                "A pub",
+                "none"
             ]
         },
         {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "What are the words of House Greyjoy?": [
+                "We Do Not Sow",
+                "Family, Duty, Honor",
+                "Hear Me Roar",
+                "Unbowed, Unbent, Unbroken"
             ]
         },
         {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "Where was Catelyn Stark when she died": [
+                "The Twins",
+                "Winterfell",
+                "The Wall",
+                "King's Landing"
             ]
         },
         {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "What animal does Brienne fight?": [
+                "Bear",
+                "Direwolf",
+                "Dragon",
+                "Boar"
             ]
         },
         {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
+            "What direwolves are still alive?": [
+                "Ghost and Nymeria",
+                "Ghost",
+                "Shaggy Dog",
+                "They're all dead"
             ]
         },
         {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "What do the Unsullied have to do to complete their training?": [
+                "Kill a newborn baby",
+                "Kill a puppy",
+                "Kill their best friend",
+                "Battle the leader"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
+            "Who poisoned Lord Arryn?": [
+                "Lysa Arryn",
+                "Littlefinger",
+                "Cersei Lannister",
+                "Joffrey Baratheon"
             ]
         },
         {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
+            "Who poisoned Joffrey?": [
+                "Olenna Tyrell",
+                "Tyrion Lannister",
+                "Oberyn Martell",
+                "Daenerys Targaryen"
             ]
         },
         {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
+            "Who killed Ygritte?": [
+                "Olly",
+                "Jon Snow",
+                "Tormund",
+                ""
             ]
         },
         {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
+            "What is the name of the gate that leads to The Eyrie": [
+                "The Bloody Gate",
+                "Castle Black",
+                "Moat Cailin",
+                "Riverrun"
             ]
         },
         {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
+            "What are the words of House Martell?": [
+                "Unbowed, Unbent, Unbroken",
+                "Hear Me Roar",
+                "Growing Strong",
+                "Ours is the Fury"
             ]
         },
         {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
+            "What are the words of House Tyrell?": [
+                "Growing Strong",
+                "Unbowed, Unbent, Unbroken",
+                "Hear Me Roar",
+                "Winter is Coming"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
+            "What is the last name for bastards in Dorne?": [
+                "Sand",
+                "Summers",
+                "Stone",
+                "Storm"
             ]
         },
         {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
+            "What is the last name for bastards in The North?": [
+                "Snow",
                 "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
+                "Stone",
+                "Stark"
             ]
         },
         {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
+            "What was Olenna's relationship to Mace Tyrell?": [
+                "Mother",
+                "Wife",
+                "Sister",
+                "Cousin"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
+            "What was Ned Stark's relationship to Jon Snow?": [
+                "Uncle",
+                "Father",
+                "Grandfather",
+                "Brother"
             ]
         },
         {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
+            "What was used to defeat Stannis Baratheon during the Battle of the Blackwater": [
+                "Wildfire",
+                "Nightshade",
+                "Milk of the Poppy",
+                "Ships"
             ]
         },
         {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
+            "Who created the first White Walker?": [
+                "The Children of the Forest",
+                "The Night's Watch",
+                "Bran Stark",
+                "The Three-eyed Raven"
             ]
         }
     ],
-    "QUESTIONS_EN_US" : [
+    "QUESTIONS_EN_GB" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "What is the sigil of the Stark family?": [
+                "Direwolf",
+                "Lion",
+                "Rose",
+                "Stag",
+                "Three-headed dragon",
+                "Wolf"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "Which of the following are not one of the Seven Kingdoms?": [
+                "Braavos",
+                "The Riverlands",
+                "The North",
+                "The Reach",
+                "Dorne",
+                "The Vale",
+                "The Westernlands"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "Who is the author of A Song of Ice and Fire?": [
+                "George R.R. Martin",
+                "J.R.R. Tolkien",
+                "Frank Herbert",
+                "Stannis Baratheon"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "Which of the following characters are still alive?": [
+                "Gendry",
+                "Mance Rayder",
+                "Tywin",
+                "None of these"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "In season 1, what part of a horse does Daenerys eat?": [
+                "Heart",
+                "Brain",
+                "Liver",
+                "All of it"
             ]
         },
         {
             "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+                "Roose Bolton killed Ramsey",
+                "Jamie Lannister tried to kill Brann",
+                "Tyrion was Hand of the King for Joffrey",
+                "Gendry is still alive"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "In what year did Game of Thrones make its television debut?": [
+                "2011",
+                "2010",
+                "2012",
+                "2009",
+                "2013"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
+            "Which actor played Joffrey?": [
+                "Jack Gleeson",
+                "Peter Dinklage",
+                "Dylan Sprouse",
                 "Lady Gaga"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "In season 2, who does Tyrion tell Littlefinger he is planning on marrying to Myrcella?": [
+                "Robin Arryn",
+                "Trystan Martell",
+                "Theon Greyjoy",
+                "Bran Stark"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "What were Tywin Lannister's last words?": [
+                "You're no son of mine",
+                "She was a whore",
+                "You shot me",
+                "Jamie is my favorite"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "Who is the Knight of Flowers?": [
+                "Loras Tyrell",
+                "Renly Baratheon",
+                "Brienne of Tarth",
+                "Jamie Lannister"
             ]
         },
         {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
+            "Who kills Robert Baratheon?": [
+                "A boar",
+                "Cersei Lannister",
+                "Lancel Lannister",
+                "Ned Stark"
             ]
         },
         {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
+            "What business does Littlefinger run?": [
+                "A brothel",
+                "A bank",
+                "A pub",
+                "none"
             ]
         },
         {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "What are the words of House Greyjoy?": [
+                "We Do Not Sow",
+                "Family, Duty, Honor",
+                "Hear Me Roar",
+                "Unbowed, Unbent, Unbroken"
             ]
         },
         {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "Where was Catelyn Stark when she died": [
+                "The Twins",
+                "Winterfell",
+                "The Wall",
+                "King's Landing"
             ]
         },
         {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "What animal does Brienne fight?": [
+                "Bear",
+                "Direwolf",
+                "Dragon",
+                "Boar"
             ]
         },
         {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
+            "What direwolves are still alive?": [
+                "Ghost and Nymeria",
+                "Ghost",
+                "Shaggy Dog",
+                "They're all dead"
             ]
         },
         {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "What do the Unsullied have to do to complete their training?": [
+                "Kill a newborn baby",
+                "Kill a puppy",
+                "Kill their best friend",
+                "Battle the leader"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
+            "Who poisoned Lord Arryn?": [
+                "Lysa Arryn",
+                "Littlefinger",
+                "Cersei Lannister",
+                "Joffrey Baratheon"
             ]
         },
         {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
+            "Who poisoned Joffrey?": [
+                "Olenna Tyrell",
+                "Tyrion Lannister",
+                "Oberyn Martell",
+                "Daenerys Targaryen"
             ]
         },
         {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
+            "Who killed Ygritte?": [
+                "Olly",
+                "Jon Snow",
+                "Tormund",
+                ""
             ]
         },
         {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
+            "What is the name of the gate that leads to The Eyrie": [
+                "The Bloody Gate",
+                "Castle Black",
+                "Moat Cailin",
+                "Riverrun"
             ]
         },
         {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
+            "What are the words of House Martell?": [
+                "Unbowed, Unbent, Unbroken",
+                "Hear Me Roar",
+                "Growing Strong",
+                "Ours is the Fury"
             ]
         },
         {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
+            "What are the words of House Tyrell?": [
+                "Growing Strong",
+                "Unbowed, Unbent, Unbroken",
+                "Hear Me Roar",
+                "Winter is Coming"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
+            "What is the last name for bastards in Dorne?": [
+                "Sand",
+                "Summers",
+                "Stone",
+                "Storm"
             ]
         },
         {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
+            "What is the last name for bastards in The North?": [
+                "Snow",
                 "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
+                "Stone",
+                "Stark"
             ]
         },
         {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
+            "What was Olenna's relationship to Mace Tyrell?": [
+                "Mother",
+                "Wife",
+                "Sister",
+                "Cousin"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
+            "What was Ned Stark's relationship to Jon Snow?": [
+                "Uncle",
+                "Father",
+                "Grandfather",
+                "Brother"
             ]
         },
         {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
+            "What was used to defeat Stannis Baratheon during the Battle of the Blackwater": [
+                "Wildfire",
+                "Nightshade",
+                "Milk of the Poppy",
+                "Ships"
             ]
         },
         {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
+            "Who created the first White Walker?": [
+                "The Children of the Forest",
+                "The Night's Watch",
+                "Bran Stark",
+                "The Three-eyed Raven"
             ]
         }
+        
     ],
     "QUESTIONS_DE_DE" : [
         {
